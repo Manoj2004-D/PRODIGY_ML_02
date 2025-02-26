@@ -1,7 +1,7 @@
 # PRODIGY_ML_02
 
 # Creating a K-means clustering algorithm to group customers of a retail store based on their purchase history
-
+# Dataset:-https://www.kaggle.com/datasets/vjchoudhary7/custome
 # importing Libraries
 import pandas as pd
 import numpy as np
